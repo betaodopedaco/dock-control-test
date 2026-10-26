@@ -1,0 +1,11 @@
+﻿{
+  "name": "dock-control-test",
+  "version": "1.0.0",
+  "description": "Control test for DockHosting build pipeline isolation - minimal Node app, no dependencies",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
